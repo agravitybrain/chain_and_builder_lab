@@ -7,8 +7,7 @@ import lombok.ToString;
 
 import java.util.List;
 
-@Builder
-@ToString
+@Builder @ToString
 public class User {
     private String firstName;
     private String lastName;

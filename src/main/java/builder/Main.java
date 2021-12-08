@@ -3,6 +3,7 @@ package builder;
 
 public class Main {
     public static void main(String[] args) {
+
         User user = User.builder()
                 .firstName("Oles")
                 .age(30)

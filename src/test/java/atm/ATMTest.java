@@ -7,7 +7,7 @@ public class ATMTest extends TestCase {
     private ATM atm = new ATM();
 
     @org.junit.jupiter.api.Test
-    void process() {
+    public void testProcess() {
         boolean success = atm.process(35);
         assertTrue(success);
 

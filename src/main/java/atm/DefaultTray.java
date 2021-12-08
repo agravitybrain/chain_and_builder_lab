@@ -2,7 +2,7 @@ package atm;
 
 public abstract class DefaultTray implements Tray{
     private int bill;
-    private Tray next;
+    public Tray next;
 
     DefaultTray(int  bill) {
         this.bill = bill;
@@ -29,5 +29,4 @@ public abstract class DefaultTray implements Tray{
             return false;
         }
     }
-
 }
