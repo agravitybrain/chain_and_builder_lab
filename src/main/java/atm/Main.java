@@ -8,6 +8,8 @@ public class Main {
         final Scanner scanner = new Scanner(System.in);
         int amount = scanner.nextInt();
 
-        ATM atm = new ATM(amount);
+        ATM atm = new ATM();
+
+        atm.process(amount);
     }
 }
