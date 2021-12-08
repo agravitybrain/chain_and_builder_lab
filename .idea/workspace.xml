@@ -5,31 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bfcfa86-a986-4956-85d3-97fcb06e5a01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/cicd.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/atm/ATMTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/builder/UserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atm/ATM.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atm/DefaultTray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atm/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atm/NullTray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atm/Tray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atm/Tray10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atm/Tray20.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atm/Tray5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/builder/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/builder/User$UserBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/builder/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/builder/UserTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitipnore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitipnore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/atm/ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atm/ATM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/atm/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atm/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +132,7 @@
       <workItem from="1638446009135" duration="333000" />
       <workItem from="1638822246587" duration="470000" />
       <workItem from="1638871990600" duration="4118000" />
-      <workItem from="1638969371140" duration="4609000" />
+      <workItem from="1638969371140" duration="5343000" />
     </task>
     <servers />
   </component>
